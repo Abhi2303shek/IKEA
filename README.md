@@ -132,10 +132,11 @@ This project simulates how a retail company would use transaction data to:
 
 ```
 IKEA-Retail-SQL-Analysis/
-│── dataset/
-│── cleaning/
-│── queries.sql
-│── insights.md
+│── ikea.zip/
+│── │── ikea/
+│── │── ikea_updated/
+│── Cleaning.ipynb
+│── ikea.sql
 │── README.md
 ```
 
